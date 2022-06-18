@@ -9,7 +9,7 @@ file_creation_date: [[2022-05-05]]
 aliases: []
 cssclass: 
 
-url: https://youtu.be/aqEDd6TRi6c
+url:
 keywords:: [ [[Historia]], [[Historia Argentina]], [[Independencia]], [[Corona]] ]
 guests:: [ [[]] ]
 ---
