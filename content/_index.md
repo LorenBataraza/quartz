@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.2
+title: Hola! Me llamo Lorenzo
 ---
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
@@ -20,6 +20,10 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 - [All Notes](/notes)
 - [Setup-related Notes](/tags/setup)
+
+
+
+- [[+ Episodio 03 - El Restaurador (1835-1852) - Ver La Historia]]
 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
